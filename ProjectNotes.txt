@@ -1,2 +1,3 @@
 Initial notes for the project.
 Added first milestone details.
+New line added in update-notes branch.
