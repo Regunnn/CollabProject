@@ -1,2 +1,3 @@
 Initial notes for the project.
 Added first milestone details.
+This update is amde in the update_notes branch.
